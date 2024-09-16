@@ -9,12 +9,13 @@ package corejavabasics;
 public class Firstprogram {
 	
 	int h=8;
-	
+	int l=0;
 	
 	public int firstfn() {
 		
 		System.out.println(h);
 		System.out.println("I am printing something");
+		
 		return h;
 	}
 	
