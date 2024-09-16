@@ -14,6 +14,7 @@ public class Firstprogram {
 	public int firstfn() {
 		
 		System.out.println(h);
+		System.out.println("I am printing something");
 		return h;
 	}
 	
