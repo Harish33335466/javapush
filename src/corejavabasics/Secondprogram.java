@@ -3,6 +3,7 @@ package corejavabasics;
 public class Secondprogram {
 	
 	int a=30;
+	int b=50;
 	
 	public void secndfn() {
 		System.out.println("I am from second class function");
