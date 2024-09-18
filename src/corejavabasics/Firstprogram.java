@@ -11,6 +11,7 @@ public class Firstprogram {
 	int h=8;
 	int l=0;
 	int a=1;
+	int e="abc";
 	
 	public int firstfn() {
 		
