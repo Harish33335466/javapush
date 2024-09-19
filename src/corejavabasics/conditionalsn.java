@@ -4,7 +4,7 @@ public class conditionalsn {
 	
 	
 	
-	@SuppressWarnings("unused")
+	
 //	public void confn() {
 //		if(2>5)
 //		{
